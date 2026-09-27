@@ -1,0 +1,86 @@
+[
+  {
+    "id": "temple_001",
+    "name": "Kashi Vishwanath Temple",
+    "hindiName": "श्री काशी विश्वनाथ मंदिर",
+    "deity": "Lord Shiva",
+    "location": "Varanasi, Uttar Pradesh, India",
+    "coordinates": {
+      "latitude": 25.3109,
+      "longitude": 83.0107
+    },
+    "description": "One of the most famous Hindu temples dedicated to Lord Shiva, located in Varanasi, Uttar Pradesh, India. It stands on the western bank of the holy river Ganga and is one of the twelve Jyotirlingas.",
+    "history": "Rebuilt several times throughout history, the current structure was constructed by Ahilyabai Holkar of Indore in 1780.",
+    "significance": "12 Jyotirlinga, Moksha Puri",
+    "imageUrl": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc",
+    "darshanSchedule": {
+      "morning": "03:00 AM - 11:15 AM",
+      "afternoon": "12:20 PM - 07:00 PM",
+      "evening": "08:30 PM - 11:00 PM"
+    },
+    "aartiSchedule": [
+      { "name": "Mangala Aarti", "time": "03:00 AM - 04:00 AM" },
+      { "name": "Bhoga Aarti", "time": "11:15 AM - 12:20 PM" },
+      { "name": "Sapta Rishi Aarti", "time": "07:00 PM - 08:30 PM" },
+      { "name": "Shringara Aarti", "time": "09:00 PM - 10:00 PM" },
+      { "name": "Shayana Aarti", "time": "10:30 PM - 11:00 PM" }
+    ],
+    "officialWebsite": "https://shrikashivishwanath.org",
+    "lastVerifiedAt": "2026-09-01",
+    "status": "published",
+    "version": 1
+  },
+  {
+    "id": "temple_002",
+    "name": "Kedarnath Dham",
+    "hindiName": "श्री केदारनाथ धाम",
+    "deity": "Lord Shiva",
+    "location": "Rudraprayag, Uttarakhand, India",
+    "coordinates": {
+      "latitude": 30.7352,
+      "longitude": 79.0669
+    },
+    "description": "Situated in the Himalayas near Mandakini river, Kedarnath is one of the holiest Hindu shrines and part of Char Dham Yatra and Panch Kedar.",
+    "history": "Believed to have been originally built by the Pandavas and revived by Adi Shankaracharya in the 8th century.",
+    "significance": "12 Jyotirlinga, Char Dham",
+    "imageUrl": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23",
+    "darshanSchedule": {
+      "morning": "05:00 AM - 01:30 PM",
+      "evening": "05:00 PM - 09:00 PM"
+    },
+    "aartiSchedule": [
+      { "name": "Maha Aarti", "time": "06:30 PM - 07:30 PM" }
+    ],
+    "officialWebsite": "https://badrinath-kedarnath.gov.in",
+    "lastVerifiedAt": "2026-09-01",
+    "status": "published",
+    "version": 1
+  },
+  {
+    "id": "temple_003",
+    "name": "Somnath Temple",
+    "hindiName": "श्री सोमनाथ ज्योतिर्लिंग",
+    "deity": "Lord Shiva",
+    "location": "Veraval, Gujarat, India",
+    "coordinates": {
+      "latitude": 20.8880,
+      "longitude": 70.4012
+    },
+    "description": "The first among the twelve Jyotirlinga shrines of Shiva, located on the western coast of Gujarat.",
+    "history": "Rebuilt by Sardar Vallabhbhai Patel after India's independence and completed in 1951.",
+    "significance": "First Jyotirlinga",
+    "imageUrl": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a",
+    "darshanSchedule": {
+      "morning": "06:00 AM - 10:00 PM"
+    },
+    "aartiSchedule": [
+      { "name": "Morning Aarti", "time": "07:00 AM" },
+      { "name": "Noon Aarti", "time": "12:00 PM" },
+      { "name": "Evening Aarti", "time": "07:00 PM" }
+    ],
+    "officialWebsite": "https://somnath.org",
+    "lastVerifiedAt": "2026-09-01",
+    "status": "published",
+    "version": 1
+  }
+]

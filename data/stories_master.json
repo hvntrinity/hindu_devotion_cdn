@@ -1,0 +1,24 @@
+[
+  {
+    "id": "story_001",
+    "title": "Samudra Manthan & Neelkanth Shiva",
+    "hindiTitle": "समुद्र मंथन और नीलकंठ महादेव",
+    "category": "Puranic Legend",
+    "deity": "Lord Shiva",
+    "summary": "The churning of the cosmic ocean by Devas and Asuras, and how Lord Shiva consumed the deadly Halahala poison to save the universe.",
+    "content": "During Samudra Manthan (churning of the cosmic ocean), many divine treasures emerged. However, before the Amrita came forth, a deadly poison known as Halahala emerged, threatening to destroy all creation. Neither Devas nor Asuras could withstand its toxic fumes. In despair, all beings prayed to Mahadev. Lord Shiva absorbed the poison in his throat, which turned blue, earning Him the divine name Neelkanth.",
+    "moral": "Selfless sacrifice for the protection of righteousness and humanity is the highest virtue.",
+    "version": 1
+  },
+  {
+    "id": "story_002",
+    "title": "The Wisdom of Shri Ganesha's Pradakshina",
+    "hindiTitle": "श्री गणेश की बुद्धि और ब्रह्मांड परिक्रमा",
+    "category": "Devotional Wisdom",
+    "deity": "Lord Ganesha",
+    "summary": "How Lord Ganesha won the divine race against Kartikeya by circumambulating His parents Shiva and Parvati.",
+    "content": "Lord Shiva and Mata Parvati posed a contest to Kartikeya and Ganesha: whoever circles the universe first would receive the divine fruit of wisdom. Kartikeya immediately set off on his peacock to fly around the world. Lord Ganesha calmly walked around His parents three times and offered bow. When asked, Ganesha replied that parents encompass the entire universe. Touched by His wisdom and devotion, Shiva and Parvati crowned Him first among worshipped deities.",
+    "moral": "True wisdom lies in understanding that devotion to parents and elders is superior to external wandering.",
+    "version": 1
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "id": "wp_01",
+    "number": 1,
+    "title": "Ganesha - Golden Dawn",
+    "deity": "Ganesha",
+    "category": "Lord Ganesha",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/01%20%E2%80%94%20Ganesha%20%E2%80%94%20Golden%20Dawn.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/01%20%E2%80%94%20Ganesha%20%E2%80%94%20Golden%20Dawn.webp",
+    "tags": [
+      "ganesha",
+      "lord ganesha",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Ganesha (Golden Dawn)."
+  },
+  {
+    "id": "wp_02",
+    "number": 2,
+    "title": "Shiva - Himalayan Meditation",
+    "deity": "Shiva",
+    "category": "Lord Shiva",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/02%20%E2%80%94%20Shiva%20%E2%80%94%20Himalayan%20Meditation.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/02%20%E2%80%94%20Shiva%20%E2%80%94%20Himalayan%20Meditation.webp",
+    "tags": [
+      "shiva",
+      "lord shiva",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Shiva (Himalayan Meditation)."
+  },
+  {
+    "id": "wp_03",
+    "number": 3,
+    "title": "Parvati - Divine Mountain Queen",
+    "deity": "Parvati",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/03%20%E2%80%94%20Parvati%20%E2%80%94%20Divine%20Mountain%20Queen.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/03%20%E2%80%94%20Parvati%20%E2%80%94%20Divine%20Mountain%20Queen.webp",
+    "tags": [
+      "parvati",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Parvati (Divine Mountain Queen)."
+  },
+  {
+    "id": "wp_04",
+    "number": 4,
+    "title": "Vishnu - Cosmic Ocean",
+    "deity": "Vishnu",
+    "category": "Lord Vishnu",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/04%20%E2%80%94%20Vishnu%20%E2%80%94%20Cosmic%20Ocean.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/04%20%E2%80%94%20Vishnu%20%E2%80%94%20Cosmic%20Ocean.webp",
+    "tags": [
+      "vishnu",
+      "lord vishnu",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Vishnu (Cosmic Ocean)."
+  },
+  {
+    "id": "wp_05",
+    "number": 5,
+    "title": "Lakshmi - Lotus of Prosperity",
+    "deity": "Lakshmi",
+    "category": "Goddess Lakshmi",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/05%20%E2%80%94%20Lakshmi%20%E2%80%94%20Lotus%20of%20Prosperity.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/05%20%E2%80%94%20Lakshmi%20%E2%80%94%20Lotus%20of%20Prosperity.webp",
+    "tags": [
+      "lakshmi",
+      "goddess lakshmi",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Lakshmi (Lotus of Prosperity)."
+  },
+  {
+    "id": "wp_06",
+    "number": 6,
+    "title": "Krishna - Flute in Vrindavan",
+    "deity": "Krishna",
+    "category": "Lord Krishna",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/06%20%E2%80%94%20Krishna%20%E2%80%94%20Flute%20in%20Vrindavan.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/06%20%E2%80%94%20Krishna%20%E2%80%94%20Flute%20in%20Vrindavan.webp",
+    "tags": [
+      "krishna",
+      "lord krishna",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Krishna (Flute in Vrindavan)."
+  },
+  {
+    "id": "wp_07",
+    "number": 7,
+    "title": "Radha Krishna - Divine Love",
+    "deity": "Radha Krishna",
+    "category": "Lord Krishna",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/07%20%E2%80%94%20Radha%20Krishna%20%E2%80%94%20Divine%20Love.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/07%20%E2%80%94%20Radha%20Krishna%20%E2%80%94%20Divine%20Love.webp",
+    "tags": [
+      "radha krishna",
+      "lord krishna",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Radha Krishna (Divine Love)."
+  },
+  {
+    "id": "wp_08",
+    "number": 8,
+    "title": "Rama - Ayodhya Dawn",
+    "deity": "Rama",
+    "category": "Lord Rama",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/08%20%E2%80%94%20Rama%20%E2%80%94%20Ayodhya%20Dawn.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/08%20%E2%80%94%20Rama%20%E2%80%94%20Ayodhya%20Dawn.webp",
+    "tags": [
+      "rama",
+      "lord rama",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Rama (Ayodhya Dawn)."
+  },
+  {
+    "id": "wp_09",
+    "number": 9,
+    "title": "Hanuman - Mountain Sunrise",
+    "deity": "Hanuman",
+    "category": "Lord Hanuman",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/09%20%E2%80%94%20Hanuman%20%E2%80%94%20Mountain%20Sunrise.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/09%20%E2%80%94%20Hanuman%20%E2%80%94%20Mountain%20Sunrise.webp",
+    "tags": [
+      "hanuman",
+      "lord hanuman",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Hanuman (Mountain Sunrise)."
+  },
+  {
+    "id": "wp_10",
+    "number": 10,
+    "title": "Durga - Lion Rider",
+    "deity": "Durga",
+    "category": "Goddess Durga & Shakti",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/10%20%E2%80%94%20Durga%20%E2%80%94%20Lion%20Rider.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/10%20%E2%80%94%20Durga%20%E2%80%94%20Lion%20Rider.webp",
+    "tags": [
+      "durga",
+      "goddess durga & shakti",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Durga (Lion Rider)."
+  },
+  {
+    "id": "wp_11",
+    "number": 11,
+    "title": "Saraswati - River of Knowledge",
+    "deity": "Saraswati",
+    "category": "Goddess Saraswati",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/11%20%E2%80%94%20Saraswati%20%E2%80%94%20River%20of%20Knowledge.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/11%20%E2%80%94%20Saraswati%20%E2%80%94%20River%20of%20Knowledge.webp",
+    "tags": [
+      "saraswati",
+      "goddess saraswati",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Saraswati (River of Knowledge)."
+  },
+  {
+    "id": "wp_12",
+    "number": 12,
+    "title": "Kali - Cosmic Protector",
+    "deity": "Kali",
+    "category": "Goddess Kali",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/12%20%E2%80%94%20Kali%20%E2%80%94%20Cosmic%20Protector.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/12%20%E2%80%94%20Kali%20%E2%80%94%20Cosmic%20Protector.webp",
+    "tags": [
+      "kali",
+      "goddess kali",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Kali (Cosmic Protector)."
+  },
+  {
+    "id": "wp_13",
+    "number": 13,
+    "title": "Saraswati - Vasant Panchami",
+    "deity": "Saraswati",
+    "category": "Goddess Saraswati",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/13%20%E2%80%94%20Saraswati%20%E2%80%94%20Vasant%20Panchami.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/13%20%E2%80%94%20Saraswati%20%E2%80%94%20Vasant%20Panchami.webp",
+    "tags": [
+      "saraswati",
+      "goddess saraswati",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Saraswati (Vasant Panchami)."
+  },
+  {
+    "id": "wp_14",
+    "number": 14,
+    "title": "Surya - Solar Chariot",
+    "deity": "Surya",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/14%20%E2%80%94%20Surya%20%E2%80%94%20Solar%20Chariot.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/14%20%E2%80%94%20Surya%20%E2%80%94%20Solar%20Chariot.webp",
+    "tags": [
+      "surya",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Surya (Solar Chariot)."
+  },
+  {
+    "id": "wp_15",
+    "number": 15,
+    "title": "Shani - Celestial Guardian",
+    "deity": "Shani",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/15%20%E2%80%94%20Shani%20%E2%80%94%20Celestial%20Guardian.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/15%20%E2%80%94%20Shani%20%E2%80%94%20Celestial%20Guardian.webp",
+    "tags": [
+      "shani",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Shani (Celestial Guardian)."
+  },
+  {
+    "id": "wp_16",
+    "number": 16,
+    "title": "Kartikeya - Peacock Warrior",
+    "deity": "Kartikeya",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/16%20%E2%80%94%20Kartikeya%20%E2%80%94%20Peacock%20Warrior.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/16%20%E2%80%94%20Kartikeya%20%E2%80%94%20Peacock%20Warrior.webp",
+    "tags": [
+      "kartikeya",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Kartikeya (Peacock Warrior)."
+  },
+  {
+    "id": "wp_17",
+    "number": 17,
+    "title": "Nataraja - Cosmic Dance",
+    "deity": "Nataraja",
+    "category": "Lord Shiva",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/17%20%E2%80%94%20Nataraja%20%E2%80%94%20Cosmic%20Dance.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/17%20%E2%80%94%20Nataraja%20%E2%80%94%20Cosmic%20Dance.webp",
+    "tags": [
+      "nataraja",
+      "lord shiva",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Nataraja (Cosmic Dance)."
+  },
+  {
+    "id": "wp_18",
+    "number": 18,
+    "title": "Venkateswara - Tirumala",
+    "deity": "Venkateswara",
+    "category": "Lord Vishnu",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/18%20%E2%80%94%20Venkateswara%20%E2%80%94%20Tirumala.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/18%20%E2%80%94%20Venkateswara%20%E2%80%94%20Tirumala.webp",
+    "tags": [
+      "venkateswara",
+      "lord vishnu",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Venkateswara (Tirumala)."
+  },
+  {
+    "id": "wp_19",
+    "number": 19,
+    "title": "Jagannath - Puri",
+    "deity": "Jagannath",
+    "category": "Lord Vishnu",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/19%20%E2%80%94%20Jagannath%20%E2%80%94%20Puri.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/19%20%E2%80%94%20Jagannath%20%E2%80%94%20Puri.webp",
+    "tags": [
+      "jagannath",
+      "lord vishnu",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Jagannath (Puri)."
+  },
+  {
+    "id": "wp_20",
+    "number": 20,
+    "title": "Sai Baba - Shirdi Serenity",
+    "deity": "Sai Baba",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/20%20%E2%80%94%20Sai%20Baba%20%E2%80%94%20Shirdi%20Serenity.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/20%20%E2%80%94%20Sai%20Baba%20%E2%80%94%20Shirdi%20Serenity.webp",
+    "tags": [
+      "sai baba",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Sai Baba (Shirdi Serenity)."
+  },
+  {
+    "id": "wp_21",
+    "number": 21,
+    "title": "Vaishno Devi - Sacred Cave",
+    "deity": "Vaishno Devi",
+    "category": "Goddess Durga & Shakti",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/21%20%E2%80%94%20Vaishno%20Devi%20%E2%80%94%20Sacred%20Cave.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/21%20%E2%80%94%20Vaishno%20Devi%20%E2%80%94%20Sacred%20Cave.webp",
+    "tags": [
+      "vaishno devi",
+      "goddess durga & shakti",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Vaishno Devi (Sacred Cave)."
+  },
+  {
+    "id": "wp_22",
+    "number": 22,
+    "title": "Ganga - Descent to Earth",
+    "deity": "Ganga",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/22%20%E2%80%94%20Ganga%20%E2%80%94%20Descent%20to%20Earth.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/22%20%E2%80%94%20Ganga%20%E2%80%94%20Descent%20to%20Earth.webp",
+    "tags": [
+      "ganga",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Ganga (Descent to Earth)."
+  },
+  {
+    "id": "wp_23",
+    "number": 23,
+    "title": "Tulsi - Sacred Courtyard",
+    "deity": "Tulsi",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/23%20%E2%80%94%20Tulsi%20%E2%80%94%20Sacred%20Courtyard.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/23%20%E2%80%94%20Tulsi%20%E2%80%94%20Sacred%20Courtyard.webp",
+    "tags": [
+      "tulsi",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Tulsi (Sacred Courtyard)."
+  },
+  {
+    "id": "wp_24",
+    "number": 24,
+    "title": "Annapurna - Divine Mother",
+    "deity": "Annapurna",
+    "category": "Goddess Durga & Shakti",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/24%20%E2%80%94%20Annapurna%20%E2%80%94%20Divine%20Mother.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/24%20%E2%80%94%20Annapurna%20%E2%80%94%20Divine%20Mother.webp",
+    "tags": [
+      "annapurna",
+      "goddess durga & shakti",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Annapurna (Divine Mother)."
+  },
+  {
+    "id": "wp_25",
+    "number": 25,
+    "title": "Mahakali - Divine Night",
+    "deity": "Mahakali",
+    "category": "Goddess Kali",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/25%20%E2%80%94%20Mahakali%20%E2%80%94%20Divine%20Night.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/25%20%E2%80%94%20Mahakali%20%E2%80%94%20Divine%20Night.webp",
+    "tags": [
+      "mahakali",
+      "goddess kali",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Mahakali (Divine Night)."
+  },
+  {
+    "id": "wp_26",
+    "number": 26,
+    "title": "Lalita Tripurasundari - Sri Chakra",
+    "deity": "Lalita Tripurasundari",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/26%20%E2%80%94%20Lalita%20Tripurasundari%20%E2%80%94%20Sri%20Chakra.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/26%20%E2%80%94%20Lalita%20Tripurasundari%20%E2%80%94%20Sri%20Chakra.webp",
+    "tags": [
+      "lalita tripurasundari",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Lalita Tripurasundari (Sri Chakra)."
+  },
+  {
+    "id": "wp_27",
+    "number": 27,
+    "title": "Lakshmi - Diwali Night",
+    "deity": "Lakshmi",
+    "category": "Goddess Lakshmi",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/27%20%E2%80%94%20Lakshmi%20%E2%80%94%20Diwali%20Night.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/27%20%E2%80%94%20Lakshmi%20%E2%80%94%20Diwali%20Night.webp",
+    "tags": [
+      "lakshmi",
+      "goddess lakshmi",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Lakshmi (Diwali Night)."
+  },
+  {
+    "id": "wp_28",
+    "number": 28,
+    "title": "Ganesha - Diwali Celebration",
+    "deity": "Ganesha",
+    "category": "Lord Ganesha",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/28%20%E2%80%94%20Ganesha%20%E2%80%94%20Diwali%20Celebration.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/28%20%E2%80%94%20Ganesha%20%E2%80%94%20Diwali%20Celebration.webp",
+    "tags": [
+      "ganesha",
+      "lord ganesha",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Ganesha (Diwali Celebration)."
+  },
+  {
+    "id": "wp_29",
+    "number": 29,
+    "title": "Shiva Parivar - Kailash",
+    "deity": "Shiva Parivar",
+    "category": "Lord Shiva",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/29%20%E2%80%94%20Shiva%20Parivar%20%E2%80%94%20Kailash.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/29%20%E2%80%94%20Shiva%20Parivar%20%E2%80%94%20Kailash.webp",
+    "tags": [
+      "shiva parivar",
+      "lord shiva",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Shiva Parivar (Kailash)."
+  },
+  {
+    "id": "wp_30",
+    "number": 30,
+    "title": "Ram Darbar - Ayodhya",
+    "deity": "Ram Darbar",
+    "category": "Lord Rama",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/30%20%E2%80%94%20Ram%20Darbar%20%E2%80%94%20Ayodhya.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/30%20%E2%80%94%20Ram%20Darbar%20%E2%80%94%20Ayodhya.webp",
+    "tags": [
+      "ram darbar",
+      "lord rama",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Ram Darbar (Ayodhya)."
+  },
+  {
+    "id": "wp_31",
+    "number": 31,
+    "title": "Krishna with Cows - Govardhan",
+    "deity": "Krishna with Cows",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/31%20%E2%80%94%20Krishna%20with%20Cows%20%E2%80%94%20Govardhan.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/31%20%E2%80%94%20Krishna%20with%20Cows%20%E2%80%94%20Govardhan.webp",
+    "tags": [
+      "krishna with cows",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Krishna with Cows (Govardhan)."
+  },
+  {
+    "id": "wp_32",
+    "number": 32,
+    "title": "Hanuman Devotion - Rama Darshan",
+    "deity": "Hanuman Devotion",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/32%20%E2%80%94%20Hanuman%20Devotion%20%E2%80%94%20Rama%20Darshan.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/32%20%E2%80%94%20Hanuman%20Devotion%20%E2%80%94%20Rama%20Darshan.webp",
+    "tags": [
+      "hanuman devotion",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Hanuman Devotion (Rama Darshan)."
+  },
+  {
+    "id": "wp_33",
+    "number": 33,
+    "title": "Navratri - Nine Forms",
+    "deity": "Navratri",
+    "category": "Goddess Durga & Shakti",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/33%20%E2%80%94%20Navratri%20%E2%80%94%20Nine%20Forms.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/33%20%E2%80%94%20Navratri%20%E2%80%94%20Nine%20Forms.webp",
+    "tags": [
+      "navratri",
+      "goddess durga & shakti",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Navratri (Nine Forms)."
+  },
+  {
+    "id": "wp_34",
+    "number": 34,
+    "title": "Janmashtami - Divine Birth",
+    "deity": "Janmashtami",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/34%20%E2%80%94%20Janmashtami%20%E2%80%94%20Divine%20Birth.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/34%20%E2%80%94%20Janmashtami%20%E2%80%94%20Divine%20Birth.webp",
+    "tags": [
+      "janmashtami",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Janmashtami (Divine Birth)."
+  },
+  {
+    "id": "wp_35",
+    "number": 35,
+    "title": "Mahashivratri - Shiva Lingam",
+    "deity": "Mahashivratri",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/35%20%E2%80%94%20Mahashivratri%20%E2%80%94%20Shiva%20Lingam.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/35%20%E2%80%94%20Mahashivratri%20%E2%80%94%20Shiva%20Lingam.webp",
+    "tags": [
+      "mahashivratri",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Mahashivratri (Shiva Lingam)."
+  },
+  {
+    "id": "wp_36",
+    "number": 36,
+    "title": "Sacred Om - Cosmic",
+    "deity": "Sacred Om",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/36%20%E2%80%94%20Sacred%20Om%20%E2%80%94%20Cosmic.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/36%20%E2%80%94%20Sacred%20Om%20%E2%80%94%20Cosmic.webp",
+    "tags": [
+      "sacred om",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Sacred Om (Cosmic)."
+  },
+  {
+    "id": "wp_37",
+    "number": 37,
+    "title": "Sacred Diya - Evening Prayer",
+    "deity": "Sacred Diya",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/37%20%E2%80%94%20Sacred%20Diya%20%E2%80%94%20Evening%20Prayer.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/37%20%E2%80%94%20Sacred%20Diya%20%E2%80%94%20Evening%20Prayer.webp",
+    "tags": [
+      "sacred diya",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Sacred Diya (Evening Prayer)."
+  },
+  {
+    "id": "wp_38",
+    "number": 38,
+    "title": "Temple Bells - Morning Aarti",
+    "deity": "Temple Bells",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/38%20%E2%80%94%20Temple%20Bells%20%E2%80%94%20Morning%20Aarti.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/38%20%E2%80%94%20Temple%20Bells%20%E2%80%94%20Morning%20Aarti.webp",
+    "tags": [
+      "temple bells",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Temple Bells (Morning Aarti)."
+  },
+  {
+    "id": "wp_39",
+    "number": 39,
+    "title": "Himalayan Temple - Meditation",
+    "deity": "Himalayan Temple",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/39%20%E2%80%94%20Himalayan%20Temple%20%E2%80%94%20Meditation.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/39%20%E2%80%94%20Himalayan%20Temple%20%E2%80%94%20Meditation.webp",
+    "tags": [
+      "himalayan temple",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Himalayan Temple (Meditation)."
+  },
+  {
+    "id": "wp_40",
+    "number": 40,
+    "title": "Ganga Ghat - Evening Aarti",
+    "deity": "Ganga Ghat",
+    "category": "Universal Divine",
+    "imageUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/40%20%E2%80%94%20Ganga%20Ghat%20%E2%80%94%20Evening%20Aarti.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/hvntrinity/hindu-wallpapers/main/40%20%E2%80%94%20Ganga%20Ghat%20%E2%80%94%20Evening%20Aarti.webp",
+    "tags": [
+      "ganga ghat",
+      "universal divine",
+      "hd",
+      "wallpaper",
+      "devotional"
+    ],
+    "prompt": "Devotional HD wallpaper of Ganga Ghat (Evening Aarti)."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "vastu_001",
+    "section": "Sleep Direction Guidelines",
+    "title": "Head Facing East or South",
+    "hindiTitle": "शयन दिशा: दक्षिण या पूर्व",
+    "recommendation": "Favorable",
+    "description": "Sleeping with your head towards South or East aligns body magnetic forces with planetary electromagnetic fields, promoting deep restorative sleep and spiritual calm.",
+    "guidelines": [
+      "Head facing South promotes longevity and peaceful sleep.",
+      "Head facing East boosts memory, concentration, and spiritual clarity.",
+      "Avoid sleeping with head facing North as Earth's magnetic north repels body iron fields."
+    ],
+    "version": 1
+  },
+  {
+    "id": "vastu_002",
+    "section": "Pooja Room (Mandir) Placement",
+    "title": "Ishan Kona (North-East Corner)",
+    "hindiTitle": "पूजा घर: ईशान कोण (उत्तर-पूर्व)",
+    "recommendation": "Most Sacred",
+    "description": "The North-East direction is known as Ishan Kona, governed by cosmic energy. Placing your home temple here invites divine peace and prosperity.",
+    "guidelines": [
+      "Idols should face East or North during prayer.",
+      "Keep Mandir elevated off floor level.",
+      "Maintain cleanliness and bright lighting."
+    ],
+    "version": 1
+  }
+]

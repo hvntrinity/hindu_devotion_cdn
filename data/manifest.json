@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-27T00:00:00Z",
+  "aartis_url": "https://cdn.jsdelivr.net/gh/hvntrinity/hindu_devotion_cdn@main/data/aartis_master.json",
+  "mantras_url": "https://cdn.jsdelivr.net/gh/hvntrinity/hindu_devotion_cdn@main/data/mantras_master.json",
+  "wallpapers_url": "https://cdn.jsdelivr.net/gh/hvntrinity/hindu_devotion_cdn@main/data/wallpapers_master.json",
+  "temples_url": "https://cdn.jsdelivr.net/gh/hvntrinity/hindu_devotion_cdn@main/data/temples_master.json",
+  "festivals_url": "https://cdn.jsdelivr.net/gh/hvntrinity/hindu_devotion_cdn@main/data/festivals_master.json",
+  "stories_url": "https://cdn.jsdelivr.net/gh/hvntrinity/hindu_devotion_cdn@main/data/stories_master.json",
+  "vastu_url": "https://cdn.jsdelivr.net/gh/hvntrinity/hindu_devotion_cdn@main/data/vastu_guide_master.json"
+}

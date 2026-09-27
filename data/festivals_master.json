@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fest_001",
+    "name": "Maha Shivratri",
+    "hindiName": "महाशिवरात्रि",
+    "deity": "Lord Shiva",
+    "month": "Phalguna",
+    "tithi": "Krishna Paksha Chaturdashi",
+    "significance": "Great night of Shiva, celebration of divine union of Shiva and Shakti",
+    "rituals": [
+      "Fasting (Vrat)",
+      "Night long vigil (Jagran)",
+      "Abhishekam with milk, honey, Ganga Jal",
+      "Chanting Om Namah Shivaya"
+    ],
+    "description": "Maha Shivratri is one of the most sacred Hindu festivals dedicated to Lord Shiva, symbolizing the overcoming of darkness and ignorance in life.",
+    "version": 1
+  },
+  {
+    "id": "fest_002",
+    "name": "Diwali (Deepavali)",
+    "hindiName": "दीपावली / दिवाली",
+    "deity": "Goddess Lakshmi & Lord Ganesha",
+    "month": "Kartika",
+    "tithi": "Amavasya",
+    "significance": "Festival of lights celebrating Lord Rama's return to Ayodhya and divine grace of Lakshmi",
+    "rituals": [
+      "Lakshmi Puja",
+      "Lighting Diya & Rangoli",
+      "Distributing Sweets",
+      "House Cleaning & Decoration"
+    ],
+    "description": "Diwali celebrates the triumph of light over darkness and good over evil across Sanatan Dharma.",
+    "version": 1
+  },
+  {
+    "id": "fest_003",
+    "name": "Janmashtami",
+    "hindiName": "श्री कृष्ण जन्माष्टमी",
+    "deity": "Lord Krishna",
+    "month": "Bhadrapada",
+    "tithi": "Krishna Paksha Ashtami",
+    "significance": "Birth of Lord Shri Krishna in Mathura",
+    "rituals": [
+      "Midnight Krishna Janmotsav",
+      "Dahi Handi",
+      "Fasting till midnight",
+      "Bhagavad Gita recitation"
+    ],
+    "description": "Celebrates the birth of Lord Krishna, the eighth avatar of Lord Vishnu.",
+    "version": 1
+  }
+]
